@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Takeshi Kishi!
 
-<a href="https://github.com/takeya0x86" target="_blank">
+<a href="https://github.com/takeyaqa" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://mastodon.social/@takeya0x86" target="_blank">
@@ -47,11 +47,11 @@ I’m a QA Engineer.
 
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=takeya0x86&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=takeyaqa&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takeya0x86&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takeyaqa&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>
 
