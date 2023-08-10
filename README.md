@@ -1,11 +1,4 @@
 ## Hey 👋, I'm Takeshi Kishi!
-
-<a href="https://github.com/takeyaqa" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://mastodon.social/@takeya0x86" target="_blank">
-<img src=https://img.shields.io/badge/mastodon-%236364ff.svg?&style=for-the-badge&logo=mastodon&logoColor=white alt=mastodon style="margin-bottom: 5px;" />
-</a>
  
 ### Glad to see you here!
 
