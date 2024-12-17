@@ -17,16 +17,16 @@ Hi! I'm Takeshi Kishi, QA Engineer / Software Engineer in Test. I specialize in 
 
 ## :card_index_dividers: Featured Projects
 
-- [hotel-example-site](https://github.com/takeyaqa/hotel-example-site) - Sandbox website for learning test automation (hotel reservation).
-- [magicpod-analyzer](https://github.com/takeyaqa/magicpod-analyzer) - Export MagicPod test data for analyzing.
-- [jasst-tohoku/gamebook](https://github.com/jasst-tohoku/gamebook) - The novel game contents for learning test automation.
+- **[hotel-example-site](https://github.com/takeyaqa/hotel-example-site)** - Sandbox website for learning test automation (hotel reservation).
+- **[magicpod-analyzer](https://github.com/takeyaqa/magicpod-analyzer)** - Export MagicPod test data for analyzing.
+- **[jasst-tohoku/gamebook](https://github.com/jasst-tohoku/gamebook)** - The novel game contents for learning test automation.
 
 ## :link: How to Reach Me
 
-- Social media: [@takeyaqa](https://mixi.social/@takeyaqa)
-- My tech blog (zenn): <https://zenn.dev/takeyaqa>
-- Speaker Deck: <https://speakerdeck.com/takeyaqa>
-- npm packages: <https://www.npmjs.com/~takeyaqa>
+- **Social Media:** [@takeyaqa](https://mixi.social/@takeyaqa)
+- **My Tech Blog (Zenn):** <https://zenn.dev/takeyaqa>
+- **My Slides (Speaker Deck):** <https://speakerdeck.com/takeyaqa>
+- **NPM Packages:** <https://www.npmjs.com/~takeyaqa>
 
 ## :bar_chart: My Stats
 
