@@ -30,5 +30,5 @@ Hi! I'm Takeshi Kishi, QA Engineer / Software Engineer in Test. I specialize in 
 
 ## :bar_chart: My Stats
 
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=takeyaqa" alt="Takeshi Kishi's GitHub stats">
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=takeyaqa&layout=compact&card_width=320" alt="Takeshi Kishi's Top Langs">
+<img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=takeyaqa" alt="Takeshi Kishi's GitHub stats">
+<img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=takeyaqa&layout=compact&card_width=320" alt="Takeshi Kishi's Top Langs">
