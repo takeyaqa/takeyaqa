@@ -38,6 +38,7 @@ Takeshi Kishi (岸 健), a.k.a. kishiken
 - **Social Media:** [@takeyaqa](https://mixi.social/@takeyaqa)
 - **My Tech Blog (Zenn):** <https://zenn.dev/takeyaqa>
 - **My Slides (Speaker Deck):** <https://speakerdeck.com/takeyaqa>
+- **Conference & Meetup History (connpass):** <https://connpass.com/user/takeyaqa/>
 - **NPM Packages:** <https://www.npmjs.com/~takeyaqa>
 
 ## :bar_chart: My Stats
