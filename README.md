@@ -2,6 +2,10 @@
 
 Hi! I'm Takeshi Kishi, QA Engineer / Software Engineer in Test. I specialize in **test automation**, **quality improvements**, and **developer productivity**. My professional goal is to deliver products that users can trust and use with confidence.
 
+## :identification_card: Name
+
+Takeshi Kishi (岸 健), a.k.a. kishiken
+
 ## :telescope: What I'm Currently Working On
 
 - Improving automated testing for job-matching applications.
@@ -20,6 +24,12 @@ Hi! I'm Takeshi Kishi, QA Engineer / Software Engineer in Test. I specialize in 
 - **[hotel-example-site](https://github.com/takeyaqa/hotel-example-site)** - Sandbox website for learning test automation (hotel reservation).
 - **[magicpod-analyzer](https://github.com/takeyaqa/magicpod-analyzer)** - Export MagicPod test data for analyzing.
 - **[jasst-tohoku/gamebook](https://github.com/jasst-tohoku/gamebook)** - The novel game contents for learning test automation.
+
+## :trophy: Open Source Contributions
+
+- **[SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium)**
+- **[appium/appium](https://github.com/appium/appium)**
+- **[webdriverio/webdriverio](https://github.com/webdriverio/webdriverio)**
 
 ## :link: How to Reach Me
 
