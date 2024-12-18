@@ -1,6 +1,8 @@
 # こんにちは、みなさん :pray:
 
-Hi! I'm Takeshi Kishi, QA Engineer / Software Engineer in Test. I specialize in **test automation**, **quality improvements**, and **developer productivity**. My professional goal is to deliver products that users can trust and use with confidence.
+Hi! I'm Takeshi Kishi, QA Engineer / Software Engineer in Test.
+
+I specialize in **test automation**, **quality improvements**, and **developer productivity**. My professional goal is to deliver products that users can trust and use with confidence.
 
 ## :identification_card: My Name is
 
