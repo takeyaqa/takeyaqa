@@ -14,7 +14,7 @@ Takeshi Kishi (岸 健), a.k.a. kishiken
 
 - Improving automated testing for job-matching applications.
 - Learning how to improve the quality of our software.
-- Exploring new technologies like Playwright, Cypress, and more testing tools
+- Exploring new technologies like Playwright, Cypress, and more testing tools.
 
 ## :computer: Tech Stack
 
@@ -38,8 +38,8 @@ Takeshi Kishi (岸 健), a.k.a. kishiken
 ## :link: How to Reach Me
 
 - **Social Media:** [@takeyaqa](https://mixi.social/@takeyaqa)
-- **My Tech Blog (Zenn):** <https://zenn.dev/takeyaqa>
-- **My Slides (Speaker Deck):** <https://speakerdeck.com/takeyaqa>
+- **Tech Blog (Zenn):** <https://zenn.dev/takeyaqa>
+- **Slides (Speaker Deck):** <https://speakerdeck.com/takeyaqa>
 - **Conference & Meetup History (connpass):** <https://connpass.com/user/takeyaqa/>
 - **NPM Packages:** <https://www.npmjs.com/~takeyaqa>
 
