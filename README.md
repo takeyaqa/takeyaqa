@@ -1,10 +1,14 @@
 # こんにちは、みなさん :pray:
 
-Hi! I'm Takeshi Kishi, QA Engineer / Software Engineer in Test.
+Hi! I'm Takeshi Kishi, QA Engineer / Software Engineer in Test / RISS.
 
 I specialize in **test automation**, **quality improvements**, and **developer productivity**. My professional goal is to deliver products that users can trust and use with confidence.
 
-I'm currently working at [Timee](https://corp.timee.co.jp). Before that, I worked at [Kufu Company](https://kufu.co.jp) from 2020 to 2024. My career started at [Webrage](https://webrage.jp) from 2014.
+I'm currently working at [Timee](https://corp.timee.co.jp). Before that, I worked at [Kufu Company](https://kufu.co.jp) from 2020 to 2024. My career started at [Deloitte Tohmatsu Webrage](https://webrage.jp) from 2014.
+
+### Qualification
+- ISTQB Certified Tester Full Advanced Level
+- Registered Information Security Specialist (No. 029967)
 
 ## :identification_card: My Name is
 
