@@ -6,9 +6,12 @@ I specialize in **test automation**, **quality improvements**, and **developer p
 
 I'm currently working at [Timee](https://corp.timee.co.jp). Before that, I worked at [Kufu Company](https://kufu.co.jp) from 2020 to 2024. My career started at [Deloitte Tohmatsu Webrage](https://webrage.jp) from 2014.
 
-### Qualification
-- ISTQB Certified Tester Full Advanced Level
+### Certifications
 - Registered Information Security Specialist (No. 029967)
+- ISTQB Certified Tester Advanced Level Test Analyst
+- ISTQB Certified Tester Advanced Level Test Management
+- ISTQB Certified Tester Advanced Level Technical Test Analyst
+- ISTQB Certified Tester Advanced Level Test Automation Engineering
 
 ## :identification_card: My Name is
 
@@ -30,7 +33,7 @@ Takeshi Kishi (岸 健), a.k.a. kishiken
 ## :card_index_dividers: Featured Projects
 
 - **[hotel-example-site](https://github.com/takeyaqa/hotel-example-site)** - Sandbox website for learning test automation (hotel reservation).
-- **[magicpod-analyzer](https://github.com/takeyaqa/magicpod-analyzer)** - Export MagicPod test data for analyzing.
+- **[PictRider](https://github.com/takeyaqa/PictRider)** - Pairwise Testing on the Web.
 - **[jasst-tohoku/gamebook](https://github.com/jasst-tohoku/gamebook)** - The novel game contents for learning test automation.
 
 ## :trophy: Open Source Contributions
@@ -41,10 +44,8 @@ Takeshi Kishi (岸 健), a.k.a. kishiken
 
 ## :link: How to Reach Me
 
-- **Social Media:** [@takeyaqa](https://mixi.social/@takeyaqa)
 - **Tech Blog (Zenn):** <https://zenn.dev/takeyaqa>
 - **Slides (Speaker Deck):** <https://speakerdeck.com/takeyaqa>
-- **Conference & Meetup History (connpass):** <https://connpass.com/user/takeyaqa/>
 - **NPM Packages:** <https://www.npmjs.com/~takeyaqa>
 
 ## :bar_chart: My Stats
