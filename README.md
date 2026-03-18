@@ -1,44 +1,25 @@
 # こんにちは、みなさん :pray:
 
-Hi! I'm Takeshi Kishi, QA Engineer / Software Engineer in Test / RISS.
+Hi! I'm Takeshi Kishi, Software Engineer focused on quality.
 
-I specialize in **test automation**, **quality improvements**, and **developer productivity**. My professional goal is to deliver products that users can trust and use with confidence.
-
-### Certifications
-- Registered Information Security Specialist (No. 029967)
-- ISTQB Certified Tester Advanced Level Test Analyst
-- ISTQB Certified Tester Advanced Level Test Management
-- ISTQB Certified Tester Advanced Level Technical Test Analyst
-- ISTQB Certified Tester Advanced Level Test Automation Engineering
+My focus is helping teams deliver **reliable and secure software**. <br>
+I build testing tools, work on test automation, and explore developer productivity.
 
 ## :identification_card: My Name is
 
 Takeshi Kishi (岸 健), a.k.a. kishiken
 
-## :telescope: What I'm Currently Working On
-
-- Improving automated testing for job-matching applications.
-- Learning how to improve the quality of our software.
-- Exploring new technologies like Playwright, Cypress, and more testing tools.
-
-## :computer: Tech Stack
-
-- **Programming Languages:** Java, JavaScript, Ruby, TypeScript, Python
-- **Testing Frameworks:** Selenium, Playwright, Appium, Cypress
-- **CI/CD Tools:** GitHub Actions, CircleCI
-- **Others:** Docker, AWS, GCP
-
 ## :card_index_dividers: Featured Projects
 
-- **[hotel-example-site](https://github.com/takeyaqa/hotel-example-site)** - Sandbox website for learning test automation (hotel reservation).
-- **[PictRider](https://github.com/takeyaqa/PictRider)** - Pairwise Testing on the Web.
-- **[jasst-tohoku/gamebook](https://github.com/jasst-tohoku/gamebook)** - The novel game contents for learning test automation.
-
-## :trophy: Open Source Contributions
-
-- **[SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium)**
-- **[appium/appium](https://github.com/appium/appium)**
-- **[webdriverio/webdriverio](https://github.com/webdriverio/webdriverio)**
+- **[PictRider](https://github.com/takeyaqa/PictRider)**
+  - <https://pictrider.takeyaqa.dev/>
+  - Pairwise testing tool with a web interface.
+- **[tester-skills](https://github.com/takeyaqa/tester-skills)**
+  - Agent skills for software testing.
+- **[hotel-example-site](https://github.com/takeyaqa/hotel-example-site)**
+  - Sandbox website for learning test automation (hotel reservation).
+- **[jasst-tohoku/gamebook](https://github.com/jasst-tohoku/gamebook)**
+  - The novel game contents for learning test automation.
 
 ## :link: How to Reach Me
 
