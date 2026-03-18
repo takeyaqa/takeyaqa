@@ -17,7 +17,7 @@ Takeshi Kishi (岸 健), a.k.a. kishiken
 - **[tester-skills](https://github.com/takeyaqa/tester-skills)**
   - Agent skills for software testing.
 - **[hotel-example-site](https://github.com/takeyaqa/hotel-example-site)**
-  - Sandbox website for learning test automation (hotel reservation).
+  - Sandbox website for learning test automation.
 - **[jasst-tohoku/gamebook](https://github.com/jasst-tohoku/gamebook)**
   - The novel game contents for learning test automation.
 
